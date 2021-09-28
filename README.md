@@ -8,9 +8,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### List of Trails
 
-Coyote Creek Trail: 
+# Coyote Creek Trail
+This 5.8 mile trail starts in Buena Park, California, ending at the mouth of the San Gabriel River. If you choose to keep riding along the San Gabriel, you will end up in sunny Seal Beach, California, making your ride a total distance of 9.6 miles. 
 
-Fullerton Loop: 
+## Fullerton Loop
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
