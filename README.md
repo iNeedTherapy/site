@@ -7,9 +7,14 @@ You can use the [editor on GitHub](https://github.com/iNeedTherapy/site/edit/mai
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ## Coyote Creek Trail
-This 5.8 mile trail starts in Buena Park, California, ending at the mouth of the San Gabriel River. If you choose to keep riding along the San Gabriel, you will end up in sunny Seal Beach, California, making your ride a total distance of 9.6 miles. 
+This 5.8 mile trail starts in Buena Park, California, ending at the mouth of the San Gabriel River. If you choose to keep riding along the San Gabriel, you will end up in sunny Seal Beach, California, making your ride a total distance of 9.6 miles. This trail is best suited for road bikes. 
+
 ![Coyote Creek Trail](https://user-images.githubusercontent.com/91549633/135110271-4e221683-da5a-47b3-ba4e-7f41747fbc22.png)
+
 ## Fullerton Loop
+This 11.1 mile trail features long stretches of dirt roads and a large lake. The trail loops around the city of Fullerton, California
+
+![Fullerton Loop](https://user-images.githubusercontent.com/91549633/135111309-d493e77f-4949-4279-a944-2cb39847385f.png)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
