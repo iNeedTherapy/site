@@ -1,4 +1,4 @@
-## Biking in Southern California
+# Biking in Southern California
 
 Southern California is a great place for biking, whether you enjoy mountain biking on rough trails, or coasting down smooth streets or pavement. 
 
@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### List of Trails
 
-# Coyote Creek Trail
+## Coyote Creek Trail
 This 5.8 mile trail starts in Buena Park, California, ending at the mouth of the San Gabriel River. If you choose to keep riding along the San Gabriel, you will end up in sunny Seal Beach, California, making your ride a total distance of 9.6 miles. 
 
 ## Fullerton Loop
