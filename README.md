@@ -6,8 +6,6 @@ You can use the [editor on GitHub](https://github.com/iNeedTherapy/site/edit/mai
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### List of Trails
-
 ## Coyote Creek Trail
 This 5.8 mile trail starts in Buena Park, California, ending at the mouth of the San Gabriel River. If you choose to keep riding along the San Gabriel, you will end up in sunny Seal Beach, California, making your ride a total distance of 9.6 miles. 
 
