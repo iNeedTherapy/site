@@ -12,9 +12,12 @@ This 5.8 mile trail starts in Buena Park, California, ending at the mouth of the
 ![Coyote Creek Trail](https://user-images.githubusercontent.com/91549633/135110271-4e221683-da5a-47b3-ba4e-7f41747fbc22.png)
 
 ## Fullerton Loop
-This 11.1 mile trail features long stretches of dirt roads and a large lake. The trail loops around the city of Fullerton, California
+This 11.1 mile ride features long stretches of dirt roads and a large lake. The trail loops around the beautiful city of Fullerton, California, showcasing various landmarks and crossing many different trails. The Fullerton Loop is best suited for mountain bikes. 
 
 ![Fullerton Loop](https://user-images.githubusercontent.com/91549633/135111309-d493e77f-4949-4279-a944-2cb39847385f.png)
+
+## Bonita Canyon Trail
+This short, 3.2 mile trail may seem too short to be any good, but it's quite the opposite. Despite its length, the Bonita Canyon Trail is one of the most scenic trails you can take in Southern California, as located on this trail is Bonita Falls, a large waterfall. 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
