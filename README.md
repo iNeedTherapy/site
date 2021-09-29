@@ -1,4 +1,4 @@
-# Biking in Southern California
+# **Biking in Southern California**
 
 Southern California is a great place for biking, whether you enjoy mountain biking on rough trails, or coasting down smooth streets or pavement. 
 
@@ -19,20 +19,8 @@ This 11.1 mile ride features long stretches of dirt roads and a large lake. The 
 ## Bonita Canyon Trail
 This short, 3.2 mile trail may seem too short to be any good, but it's quite the opposite. Despite its length, the Bonita Canyon Trail is one of the most scenic trails you can take in Southern California, as located on this trail is Bonita Falls, a large waterfall. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Bonita Falls](https://user-images.githubusercontent.com/91549633/135292388-c77cc128-6deb-4548-9df3-05cee9dd7690.png)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
